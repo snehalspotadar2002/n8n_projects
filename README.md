@@ -73,6 +73,6 @@ Routes leads based on Profession:
 
 Each lead receives a personalized email using dynamic fields:
 
-## 🖼️ Workflow Screenshot
 
-![Workflow Screenshot](./Screenshot%20(102).png)
+<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/3e8e15b1-f132-42e7-ac3c-09d0111f044d" />
+
