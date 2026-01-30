@@ -72,3 +72,7 @@ Routes leads based on Profession:
 - `Employee_mail`
 
 Each lead receives a personalized email using dynamic fields:
+
+## 🖼️ Workflow Screenshot
+
+![Workflow Screenshot](./Screenshot%20(102).png)
